@@ -15,7 +15,7 @@ We aim to provide a more competitive price for our customers. We believe this wi
 With online shopping and online payment provided, customers shopping time will be significantly reduced. Customers wouldn’t need to leave their house and waste their time browsing the item in a physical store.
 
 ## Project Screenshots
-![Screenshot of the homepage.]()
+![Screenshot of the homepage.](docs/index.png)
 
 ## Link to Documentation
-[Final Year Project Documentation](https://drive.google.com/file/d/1lMDvwxLuEd5T_2ULWeab-6Gk2klVIA2F/view?usp=sharing)
+[Final Year Project Documentation](docs/FYP Documentation.pdf)
