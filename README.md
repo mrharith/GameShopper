@@ -2,7 +2,9 @@
 Final year project for Diploma in Information Technology (2020)
 
 ## Introduction
-GameShopper is an online shopping platform for users to browse and purchase games.
+This project is about an online game store which will be selling a wide range of games available for the main platform such as PC, PlayStation and X-BOX. Nowadays, users prefer to shop online as there will be less time wasted spent on driving, browsing and queueing at a retail store. So, our system will be a much more convenient choice for them.
+Our platform requires the customers to create an account or login to their existing account before making purchases. When the customers register, they are needed to fill up their name, contact number and address. These credentials will be used later when they check out their purchases. Our platform will also feature a filter option so that our customers can browse our catalog for easily. As for the payment method, we opted to online payment method as it is easier for the customers to make payment without the needs to leave their house and it will be easier for us to verified the payment. We will also be providing a shipping services using national courier. After the customers complete their purchases, they can view their order history
+
 
 ## Project Objectives 
 ### To provide a platform for gamers that is user friendly for customers.
