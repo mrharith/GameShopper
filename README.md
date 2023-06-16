@@ -17,5 +17,7 @@ With online shopping and online payment provided, customers shopping time will b
 ## Project Screenshots
 ![Screenshot of the homepage.](docs/index.PNG)
 
+![Screenshot of the homepage.](docs/catalog.PNG)
+
 ## Link to Documentation
 [Final Year Project Documentation](https://drive.google.com/file/d/1lMDvwxLuEd5T_2ULWeab-6Gk2klVIA2F/view?usp=drive_link)
