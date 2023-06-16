@@ -18,4 +18,4 @@ With online shopping and online payment provided, customers shopping time will b
 ![Screenshot of the homepage.](docs/index.PNG)
 
 ## Link to Documentation
-[Final Year Project Documentation](docs/FYP Documentation.pdf)
+![Final Year Project Documentation](docs/FYP Documentation.pdf)
